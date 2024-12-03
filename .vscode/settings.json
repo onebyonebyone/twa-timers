@@ -1,0 +1,14 @@
+{
+  "cSpell.language": "en,ru",
+  "cSpell.words": [
+    "Autogrow",
+    "fetchpriority",
+    "majesticons",
+    "Nuxt",
+    "nuxtjs",
+    "pinia",
+    "tailwindcss",
+    "vueuse"
+  ],
+  "css.customData": [".vscode/tailwind.json"]
+}
